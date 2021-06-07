@@ -15,11 +15,11 @@ I'm Murat from Turkey. I'm a game developer. I really enjoy learning something a
 
 ### ✨ Projects
 
-Projects | Platforms | Language | Game Engine | Repository
------------- | ------------- | ------------ | ------------- | -------------
-The Nightmare | Steam | C# | Unity Engine | -
-NUC: After The Blast | Steam | C# | Unity Engine | Private
-The Nightmare 2 | Steam | C# | Unity Engine | Private
+Projects | Platforms | Market | Language | Game Engine | Repository
+------------ | -------------  | ------------- | ------------ | ------------- | -------------
+The Nightmare | PC | Steam | C# | Unity Engine | -
+NUC: After The Blast | PC | Steam | C# | Unity Engine | Private
+The Nightmare 2 | PC | Steam | C# | Unity Engine | Private
 
 
 
