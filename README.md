@@ -4,7 +4,7 @@ I'm Murat from Turkey. I'm a game developer. I really enjoy learning something a
 
 Skills: UNİTY / C#
 
-- 🔭 I’m currently working on Indie Company 
+- 🔭 I’m currently working on Indie Team
 - 🌱 I’m currently learning Advanced C# 
 
 
