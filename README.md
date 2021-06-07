@@ -3,13 +3,15 @@
 I'm Murat from Turkey. I'm a game developer. I really enjoy learning something about game development and also enjoy learning how to make diffrent type of game. I'm using Unity Engine and C#. I'm still developing myself.
 
 
-### ✨ Shills
-* UNİTY <br>
-* C#
-
 ### ✨ Status
 - 🔭 I’m currently working on Indie Team
 - 🌱 I’m currently learning Advanced C# 
+
+
+### ✨ Skills
+* UNİTY <br>
+* C#
+
 
 ### ✨ Projects
 
