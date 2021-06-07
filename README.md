@@ -8,6 +8,12 @@ Skills: UNİTY / C#
 - 🌱 I’m currently learning Advanced C# 
 
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Calquter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/murat-hasanusta-885b511b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Calquter)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Calquter&show_icons=true)  
