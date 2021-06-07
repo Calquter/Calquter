@@ -7,6 +7,7 @@ I'm Murat from Turkey. I'm a game developer. I really enjoy learning something a
 * UNİTY <br>
 * C#
 
+### ✨ Status
 - 🔭 I’m currently working on Indie Team
 - 🌱 I’m currently learning Advanced C# 
 
