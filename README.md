@@ -17,8 +17,8 @@ I'm Murat from Turkey. I'm a game developer. I really enjoy learning something a
 
 Games | Platforms | Market | Language | Game Engine | Link
 ------------ | -------------  | ------------- | ------------ | ------------- | -------------
-The Nightmare | PC | Steam | C# | Unity Engine | <a href = "https://store.steampowered.com/app/1372550/The_Nightmare/?beta=0"/>
-NUC: After The Blast | PC | Steam | C# | Unity Engine | <a href = "https://store.steampowered.com/app/1595410/NUC_After_The_Blast/"/>
+The Nightmare | PC | Steam | C# | Unity Engine | <a href = "https://store.steampowered.com/app/1372550/The_Nightmare/?beta=0"> Steam Page </a> 
+NUC: After The Blast | PC | Steam | C# | Unity Engine | <a href = "https://store.steampowered.com/app/1595410/NUC_After_The_Blast/"> Steam Page </a> 
 The Nightmare 2 | PC | Steam | C# | Unity Engine | -
 
 
