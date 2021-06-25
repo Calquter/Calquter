@@ -1,6 +1,6 @@
 ### Hi there 👋, Murat Hasanusta
 ##### Game Developer
-I'm Murat from Turkey. I'm a game developer. I really enjoy learning something about game development and also enjoy learning how to make diffrent type of game. I'm using Unity Engine and C#. I'm still developing myself.
+I'm Murat from Turkey. I'm a game developer. I really enjoy learning something about game development and also enjoy learning how to make diffrent type of game. I'm using Unity Engine and C#. I'm still improving myself.
 
 
 ### ✨ Status
