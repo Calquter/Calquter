@@ -19,7 +19,7 @@ Games | Platforms | Market | Language | Game Engine | Link
 :------------: | :-------------:  | :-------------: | :------------: | :-------------: | :-------------:
 The Nightmare | PC | Steam | C# | Unity Engine | <a href = "https://store.steampowered.com/app/1372550/The_Nightmare/?beta=0"> Steam Page </a> 
 NUC: After The Blast | PC | Steam | C# | Unity Engine | <a href = "https://store.steampowered.com/app/1595410/NUC_After_The_Blast/"> Steam Page </a> 
-Throw Weapon | Mobile | Google Play | C# | Unity Engine | -
+Throw Weapon | Mobile | Google Play | C# | Unity Engine | <a href = "https://play.google.com/store/apps/details?id=com.LeakageGames.ThrowaWeapon&gl=TR"> Steam Page </a> 
 
 
 ### ✨ Projects
