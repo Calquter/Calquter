@@ -32,7 +32,7 @@ GridBasedBuildSystem| C# | Unity | <a href = "https://github.com/Calquter/GridBa
 
 ### ✨ Game Jams
 
-Jam | Theme | Time | Participation | Place
+Jam | Theme | Time | Participants | Place
 :------------: | :-------------: | :-------------:  | :-------------: | :------------:
 Mağara Jam | Sistem Hatası / System Error | 72hr  | 3,957 | -
 
