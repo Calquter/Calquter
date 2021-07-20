@@ -32,9 +32,9 @@ GridBasedBuildSystem| C# | Unity | <a href = "https://github.com/Calquter/GridBa
 
 ### ✨ Game Jams
 
-Jam | Theme | Time | Participants | Game
+Jam | Theme | Time | Game
 :------------: | :-------------: | :-------------:  | :-------------: | :------------:
-Mağara Jam | Sistem Hatası / System Error | 72hr  | 4,002 | <a href = "https://anl0wer.itch.io/kernel"> Kernel </a>
+Mağara Jam | Sistem Hatası / System Error | 72hr | <a href = "https://anl0wer.itch.io/kernel"> Kernel </a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Calquter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/murat-hasanusta-885b511b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Calquter)  
