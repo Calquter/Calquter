@@ -25,7 +25,7 @@ Throw Weapon | Mobile | Google Play | C# | Unity Engine | <a href = "https://pla
 ### ✨ Projects
 
 Games | Language | Game Engine | Repository
-:------------: | :-------------:  | :------------:
+:------------: | :-------------:  | :------------: | :------------:
 SpyGameAI | C# | Unity | <a href = "https://github.com/Calquter/SpyGameAI">Github Repo</a>
 GridBasedBuildSystem| C# | Unity | <a href = "https://github.com/Calquter/GridBasedBuildSystem">Github Repo</a>
 
@@ -33,7 +33,7 @@ GridBasedBuildSystem| C# | Unity | <a href = "https://github.com/Calquter/GridBa
 ### ✨ Game Jams
 
 Jam | Theme | Time | Game
-:------------: | :-------------: | :-------------:  | :-------------: | :------------:
+:------------: | :-------------: | :-------------:  | :-------------:
 Mağara Jam | Sistem Hatası / System Error | 72hr | <a href = "https://anl0wer.itch.io/kernel"> Kernel </a>
 
 
