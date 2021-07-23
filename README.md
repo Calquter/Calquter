@@ -22,7 +22,7 @@ NUC: After The Blast | PC | Steam | C# | Unity Engine | <a href = "https://store
 Throw Weapon | Mobile | Google Play | C# | Unity Engine | <a href = "https://play.google.com/store/apps/details?id=com.LeakageGames.ThrowaWeapon&gl=TR"> Google Play Page </a> 
 
 
-### ✨ Projects
+### ✨ Personel Projects
 
 Games | Language | Game Engine | Repository
 :------------: | :-------------:  | :------------: | :------------:
