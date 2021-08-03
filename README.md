@@ -24,7 +24,7 @@ Throw Weapon | Mobile | Google Play | C# | Unity Engine | <a href = "https://pla
 
 ### ✨ Personel Projects
 
-Games | Language | Game Engine | Repository
+Project Name | Language | Game Engine | Repository
 :------------: | :-------------:  | :------------: | :------------:
 SpyGameAI | C# | Unity | <a href = "https://github.com/Calquter/SpyGameAI">Github Repo</a>
 GridBasedBuildSystem| C# | Unity | <a href = "https://github.com/Calquter/GridBasedBuildSystem">Github Repo</a>
