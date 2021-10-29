@@ -4,13 +4,13 @@ I'm Murat from Turkey. I'm a game developer. I really enjoy learning something a
 
 
 ### ✨ Status
-- 🔭 I’m currently working on Indie Team
-- 🌱 I’m currently learning Advanced C# 
+- 🌱 I’m a student at Istanbul Bilgi University.
 
 
 ### ✨ Skills
 * UNİTY <br>
-* C#
+* C# (Advanced) <br>
+* Java (Beginner)
 
 
 ### ✨ Released Games
