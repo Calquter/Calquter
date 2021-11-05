@@ -10,7 +10,7 @@ I'm Murat from Turkey. I'm a game developer. I really enjoy learning something a
 ### ✨ Skills
 * UNİTY <br>
 * C# (Advanced) <br>
-* Java (Beginner)
+* Java (Intermediate)
 
 
 ### ✨ Released Games
