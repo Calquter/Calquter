@@ -41,7 +41,7 @@ Udo Next Jam | İçindeki Canavar / The Beast Inside | 72hr | <a href = "https:/
 ### ✨ Game Mechanic Replicas
 
 Game Name | Platform | Repository
-:------------: | :-------------:
+:------------: | :-------------: | :-------------:
 Rush Hour 3D | Google Play Store / App Store | <a href = "https://github.com/Calquter/RushHour3DPrototype"> Github Repo </a>
 
 
