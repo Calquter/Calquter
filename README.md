@@ -3,15 +3,6 @@
 I'm Murat from Turkey. I'm a game developer. I really enjoy learning something about game development and also enjoy learning how to make diffrent type of game. I'm using Unity Engine and C#. I'm still improving myself.
 
 
-### ✨ Status
-- 🌱 I’m a student at Istanbul Bilgi University.
-
-
-### ✨ Skills
-* UNİTY <br>
-* C# <br>
-
-
 ### ✨ Released Games
 
 Games | Platforms | Market | Language | Game Engine | Link
