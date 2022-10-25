@@ -26,6 +26,8 @@ Udo Next Jam | İçindeki Canavar / The Beast Inside | 72hr | <a href = "https:/
 Game Name | Platform | Repository
 :------------: | :-------------: | :-------------:
 Rush Hour 3D | Google Play Store / App Store | <a href = "https://github.com/Calquter/RushHour3DPrototype"> Github Repo </a>
+Money Buster | Google Play Store / App Store | <a href = "https://github.com/Calquter/AlictusCase-MoneyBuster-"> Github Repo </a>
+Rush Hour 3D | Google Play Store / App Store | <a href = "https://github.com/Calquter/AlictusCase-SummerBuster-"> Github Repo </a>
 
 
 
